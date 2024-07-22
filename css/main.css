@@ -1,4 +1,14 @@
 .all{
     text-align:center;
-    width: 40%;
+    
 }
+
+.leads{
+    float:left;
+    width: 33%;
+}
+.clr{
+    clear: left;
+}
+
+
